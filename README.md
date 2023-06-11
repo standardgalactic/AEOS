@@ -2,4 +2,4 @@
 Active Entity Ontology for Science (AEOS)
 
 Interactive site:
-https://coda.io/@active-inference-lab/active-entity-ontology-for-science-aeos
+https://coda.io/@active-inference-institute/active-entity-ontology-for-science-aeos
